@@ -1,0 +1,20 @@
+#EXTM3U
+
+#EXTINF:-1,Zee Telugu HD
+https://mhdtv.co.in/jio/app/webapi.php?action=direct_play&c=Zee_Telugu&e=.m3u8
+https://cflive-esports-english.zee5.com/out/v1/06589254a501444cae34f76c6afd5c60/Zee_telugu/index.m3u8
+
+#EXTINF:-2,ETV Telugu HD
+https://mhdtv.co.in/jio/app/webapi.php?action=direct_play&c=ETV_HD&e=.m3u8
+https://segmentsecmpkg.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/etvhd_https/index.m3u8?hdnts=st=1682419923~exp=1682423523~acl=*~data=yuppTVCom_5_21103149_23312da56fa3442f_UK_31.22.4.94~hmac=95decb2bec55049edd9b954a096a5cf4ee2958de815b69fe63a4d0354c332df2&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.lang=TEL&ads.content_genre=ENT&ads.channel=321
+
+#EXTINF:-3,Star Maa HD
+https://segmentsecmpkgire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/maatvhd_live_https/index.m3u8?hdnts=st=1682418779~exp=1682422379~acl=*~data=yuppTVCom_5_21103149_23312da56fa3442f_UK_31.22.4.94~hmac=3710c8918d1528c35427d9ccb70198dd4d7f77b69d17e151e052448d4d0f456e&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.lang=TEL&ads.content_genre=ENT&ads.channel=42
+
+#EXTINF:-4,Gemini TV HD
+https://mhdtv.co.in/jio/app/webapi.php?action=direct_play&c=Gemini_TV_HD&e=.m3u8
+https://mhdtv.co.in/sun/streams/71a789e1eb2da2eb3642265fbbf7a34a/index.m3u8?usfAuth=yZC5nZrIntC4mZa4odmZzwm5ndjKyZK0mMeYmwfKnta1ytm3zJuYys0Tlte2odi0mJaYmZi
+
+#EXTINF:-5,Zee Cinemalu HD
+https://mhdtv.co.in/jio/app/webapi.php?action=direct_play&c=Zee_Cinemalu&e=.m3u8
+https://cflive-esports-hindi.zee5.com/out/v1/32b5d7e9a9144c6ab822dc10a77bfafc/Zee_Cinemalu_HD/index.m3u8
